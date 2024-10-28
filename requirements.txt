@@ -1,5 +1,4 @@
 anthropic
-os
 Pillow
 PyMuPDF
 openai==0.28
