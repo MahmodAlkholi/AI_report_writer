@@ -3,7 +3,6 @@ Pillow
 PyMuPDF
 openai==0.28
 python-dotenv
-base64
 requests
 io
 datetime
